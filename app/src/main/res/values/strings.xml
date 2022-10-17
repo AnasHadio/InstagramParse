@@ -1,0 +1,10 @@
+<resources>
+    <drawable name="ic_launcher_round.png">@drawable/ic_launcher_round.png</drawable>
+    <string name="app_name">Instagram</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">VAwuGHhricLVt2Skw3m28Xp4jnPB2WhK1Xm7voR2</string>
+    <string name="back4app_client_key">9tDUDspLHdDwHaO8j6C0gg2CLpOhMWLyTVC2MQT1</string>
+</resources>
