@@ -10,6 +10,10 @@
         <entry key="..\:/Users/anash/AndroidStudioProjects/InstagramParse/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/anash/AndroidStudioProjects/InstagramParse/app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="..\:/Users/anash/AndroidStudioProjects/InstagramParse/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/anash/AndroidStudioProjects/InstagramParse/app/src/main/res/layout/fragment_compose.xml" value="0.39814814814814814" />
+        <entry key="..\:/Users/anash/AndroidStudioProjects/InstagramParse/app/src/main/res/layout/fragment_feed.xml" value="0.2076271186440678" />
+        <entry key="..\:/Users/anash/AndroidStudioProjects/InstagramParse/app/src/main/res/layout/item_post.xml" value="0.33" />
+        <entry key="..\:/Users/anash/AndroidStudioProjects/InstagramParse/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.419921875" />
         <entry key="..\:/Users/anash/AndroidStudioProjects/InstagramParse/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1255" />
         <entry key="..\:/Users/anash/AndroidStudioProjects/InstagramParse/app/src/main/res/xml/fileprovider.xml" value="0.14907407407407408" />
       </map>
