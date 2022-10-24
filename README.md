@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 - [ ] User can comment on a post and see all comments for each post in the post details screen.
 - [ ] User can like a post and see number of likes for each post in the post details screen.
 
-The following **additional** features are implemented:
+The following **additional** features are implemented: 
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
